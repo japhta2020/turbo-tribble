@@ -1,0 +1,2 @@
+_id,item,brands,prices,sizes,quantity,stock price,barcode,expiry date,shelf number,storage
+ObjectId("5e58c8c27632e2f7fd10d064"),chocolate,cadbury,16,55,10,200,132587,04.05.2020,2,cooler
